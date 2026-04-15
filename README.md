@@ -982,3 +982,9 @@ If you found this project helpful, consider giving it a star — it means a lot!
 <sub>Made with Swift and a lot of coffee.</sub>
 
 </div>
+
+
+## Contributors
+
+- Tunahan Coşgun — <info@tunahancosgun.dev>
+- Duygu Durmuş — <duygudurmus12@gmail.com>
